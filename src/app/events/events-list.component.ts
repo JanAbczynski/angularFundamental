@@ -8,14 +8,16 @@ declare let toastr
     selector: 'events-list',
     // template: '<div><h1>Upcoming Angular Events</h1></div>'
     template: `
+
+    
     <div>
         <h1>Upcoming Angular Events</h1>
         <hr/>
         <div class="row">
             <div *ngFor="let event of events" class="col-md-5">
-                <events-thumbnail (click)="handleThumbnailClick(event.name)" [event]="event"></events-thumbnail>
+                <events-thumbnail #thumbnail (click)="handleThumbnailClick(event.name)" [event]="event"></events-thumbnail>
                 <button class="btn-primary" (click)="handleThumbnailClick(event.name)"> XXX </button>
-                <button class="btn-primary" (click)="thumbnail.logFoo()"> Log me some foo, now</button>
+                <button class="btn-primary" (click)="thumbnail.logFoo()"> Log me some foo</button>
             </div>
         </div>
     </div>
@@ -24,8 +26,10 @@ declare let toastr
 export class EventsListComponent implements OnInit {
     events:any[]
     constructor(private eventService: EventService){
-        
+    
     }
+
+// ostatni dobry commit NAVBAR - sprawdzić czemu thumbnail nie działa
 
     ngOnInit(){
         this.events = this.eventService.getEvents()
@@ -33,7 +37,7 @@ export class EventsListComponent implements OnInit {
 
     handleThumbnailClick(eventName){
         console.log(eventName)
-        // toastr.success(eventName)
+        toastr.success(eventName)
         
     }
 
