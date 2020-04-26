@@ -1,0 +1,181 @@
+[33mcommit 5eaecf51f2db8253a3cd99ff2e275a053c3bafef[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Sat Apr 25 22:59:33 2020 +0200
+
+    navigate from code
+
+[33mcommit 5e7915988b6382a978036b457834c3b4e80e80d1[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Sat Apr 25 22:13:43 2020 +0200
+
+    routes link
+
+[33mcommit 9422c708609ed07baa5b31d55e9f0c729668521f[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Sat Apr 25 18:09:08 2020 +0200
+
+    route parameter
+
+[33mcommit 4e8ab49ab2bc3262f7e9b0e33333c52b07edf690[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Sat Apr 25 17:57:17 2020 +0200
+
+    first route
+
+[33mcommit f8d1324f01636f4bbb8bf6e92a03cb0731af22cd[m
+Merge: 5395ab3 55b6043
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Sat Apr 25 14:58:46 2020 +0200
+
+    fixed merge
+
+[33mcommit 5395ab374422761fc3e2b70eb79ccaa8611954e4[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Sat Apr 25 14:48:14 2020 +0200
+
+    toastr in common
+
+[33mcommit 55b60431cb6428fa47c8aee4919b6df718401ed8[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Sat Apr 25 11:31:32 2020 +0200
+
+    toastr
+
+[33mcommit 1280bf6b9b1ad263f2579f90e19ae10c144e8602[m
+Merge: 0dc765b 26e570a
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Sat Apr 25 00:17:58 2020 +0200
+
+    WIP on master: 0dc765b OnInint
+
+[33mcommit 26e570a0bc8e06640eba476d7be41fac5561abf3[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Sat Apr 25 00:17:58 2020 +0200
+
+    index on master: 0dc765b OnInint
+
+[33mcommit 0dc765beae59637afd8d7a71ae2b86ef4557ff25[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Fri Apr 24 22:45:35 2020 +0200
+
+    OnInint
+
+[33mcommit ee3d82b38a62fb5c21a16b6ad764792ff8ac5fe8[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Fri Apr 24 22:26:18 2020 +0200
+
+    service in constructor
+
+[33mcommit 456266e70df1b2a11e36e9d0e70393105548c024[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Fri Apr 24 16:48:15 2020 +0200
+
+    ngStyle
+
+[33mcommit 3cd75b31d88fba74c9787169f877a48e6b35d2a4[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Fri Apr 24 15:18:19 2020 +0200
+
+    switch class in function
+
+[33mcommit 4641f1a828149acb9a6375d1bfaeea0332bc2dcf[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Fri Apr 24 12:53:36 2020 +0200
+
+    switch class as object
+
+[33mcommit a0e78431e60bed7f0b4eeacc796465492da5068e[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Fri Apr 24 12:47:16 2020 +0200
+
+    switch class
+
+[33mcommit bbb9ebd908bd37d576aceceb19104152d0ed9036[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Fri Apr 24 12:38:10 2020 +0200
+
+    switch
+
+[33mcommit b9ef16732d6bc2e7cec0fe149e7070e8b58b7342[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Fri Apr 24 12:13:11 2020 +0200
+
+    hidding
+
+[33mcommit c0aa51277d30dd4f8328db395df9c90d58e28e7b[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Fri Apr 24 12:04:47 2020 +0200
+
+    ngIf
+
+[33mcommit 3baaea12d4bae9676ebcb96072f3f3d52e95eeb3[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Fri Apr 24 11:46:29 2020 +0200
+
+    repeat data with ngFor - in grid
+
+[33mcommit ac0d5c7dbc795b6bc289da84b5f1e06dd3830cb8[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Thu Apr 23 23:59:41 2020 +0200
+
+    repeat data with ngFor
+
+[33mcommit 300e0149456b4a7c9e30a41b38c840ef7c10147d[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Thu Apr 23 23:13:58 2020 +0200
+
+    nav bar
+
+[33mcommit 3007e18b597d88b9fb5a26d73515d8f765155a31[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Thu Apr 23 22:30:36 2020 +0200
+
+    css ready
+
+[33mcommit e04e00e4f38ef453d9f44e05d6e4c0319bc48872[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Thu Apr 23 22:09:30 2020 +0200
+
+    css
+
+[33mcommit 363e00ee3caef7a0634591d9389883a650c570c7[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Thu Apr 23 15:11:20 2020 +0200
+
+    reference variable 2
+
+[33mcommit 10173b7ae7cd3581b57861bd4c48f0667423b4a3[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Thu Apr 23 15:02:16 2020 +0200
+
+    reference variable
+
+[33mcommit 782ebfb10c647d53d55b95d62c99986c22aa67f0[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Thu Apr 23 14:26:23 2020 +0200
+
+    event listener
+
+[33mcommit 3d2f5e651eff75ae7a50df92be0bba277cd87c3b[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Thu Apr 23 13:05:00 2020 +0200
+
+    pass dato to child
+
+[33mcommit 31277abe064a246fabba4c1e8d24b5dd462ff3be[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Thu Apr 23 12:23:44 2020 +0200
+
+    chapter 3
+
+[33mcommit c76dac1cd69c0f6ab4bd84af16145d293194760d[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Thu Apr 23 00:33:27 2020 +0200
+
+    chapter 1
+
+[33mcommit 31df975f357d465ae13987f1e959992c0bdae123[m
+Author: JanAbczynski <jan.abczynski@gmail.com>
+Date:   Wed Apr 22 22:26:26 2020 +0200
+
+    new repo
